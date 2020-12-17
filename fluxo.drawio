@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T04:03:35.895Z" agent="5.0 (Windows)" version="14.0.4" etag="5y__RxBa_hL2uUodHPOT" type="github"><diagram id="1mi55w-MK9Hq0wuGrsEP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T04:05:20.396Z" agent="5.0 (Windows)" etag="TnYy2Ib1dWdn8T_iXLQS" version="14.0.4" type="github">
+  <diagram id="1mi55w-MK9Hq0wuGrsEP" name="Page-1">
+    <mxGraphModel dx="1038" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LezXGtvEfTM29wGy_VLV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-3" target="LezXGtvEfTM29wGy_VLV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-3" target="LezXGtvEfTM29wGy_VLV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;684 relatos identificados nas fontes de busca &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-4" value="Identificação" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="60" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-8" target="LezXGtvEfTM29wGy_VLV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-8" target="LezXGtvEfTM29wGy_VLV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;609 relatos rastreados&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;506 relatos excluídos na seleção inicial&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-10" value="Elegibilidade" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="420" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-13" target="LezXGtvEfTM29wGy_VLV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-13" target="LezXGtvEfTM29wGy_VLV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;103 artigos em texto completo avaliados para elegibilidade&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;44 artigos em texto completo excluídos com justificativa&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="LezXGtvEfTM29wGy_VLV-16" target="LezXGtvEfTM29wGy_VLV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;59 estudos incluídos em síntese qualitativa&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;59 estudos incluídos em síntese quantitativa (meta-análise)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-18" value="Seleção" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-19" value="Inclusão" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="540" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;75 relatos duplicados&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-21" value="." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LezXGtvEfTM29wGy_VLV-22" value="." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="800" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
